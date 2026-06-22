@@ -4,10 +4,8 @@ Forensic fire engineer and human-behaviour-in-fire researcher. I split my time b
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luke_de_Schot-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukedeschot/)
 [![University of Canterbury](https://img.shields.io/badge/UC-Research_Profile-A6192E)](https://www.canterbury.ac.nz/about-uc/contact-us/postgrad-directory/luke-deSchot)
-[![Printables](https://img.shields.io/badge/Printables-@DarthTiberius-FF6A00)](https://www.printables.com/@DarthTiberius)
-<!-- Optional — uncomment to add your Google Scholar profile:
+[![Printables](https://img.shields.io/badge/Printables-@DarthTiberius-FF6A00)](https://www.printables.com/@DarthTiberiu_4479128)
 [![Google Scholar](https://img.shields.io/badge/Scholar-Publications-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=1c97tG0AAAAJ)
--->
 
 ---
 
