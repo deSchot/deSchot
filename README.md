@@ -7,6 +7,18 @@ Forensic fire engineer and human-behaviour-in-fire researcher. I split my time b
 [![Printables](https://img.shields.io/badge/Printables-@DarthTiberius-FF6A00)](https://www.printables.com/@DarthTiberiu_4479128)
 [![Google Scholar](https://img.shields.io/badge/Scholar-Publications-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=1c97tG0AAAAJ)
 
+### 📄 HBiF 2026 — conference paper
+
+**Overground walking in VR evacuation studies: design considerations and reproducibility guidelines**
+de Schot, L., Nilsson, D., & Lovreglio, R. (2026). *8th International Symposium on Human Behaviour in Fire*, Helsingborg.
+
+A review of 19 real-vs-virtual gait studies, a set of design considerations for overground walking in VR, and the W1–W12 domain-specific reporting criteria extending Zielasko & Weissker (2023).
+
+**📥 [Download the paper (PDF)](https://github.com/deSchot/hbif2026/blob/main/de_Schot_HBiF2026.pdf)** · [Supplementary materials (Zenodo)](https://doi.org/10.5281/zenodo.20350355)
+
+*Author's accepted manuscript. Please cite the published proceedings version.*
+
+---
 ---
 
 ### 🔦 Egress Enabler — live tool
