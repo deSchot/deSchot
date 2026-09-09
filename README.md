@@ -10,7 +10,7 @@ Forensic fire engineer and human-behaviour-in-fire researcher. I split my time b
 ### 📄 HBiF 2026 — conference paper
 
 **Overground walking in VR evacuation studies: design considerations and reproducibility guidelines**
-de Schot, L., Nilsson, D., & Lovreglio, R. (2026). *8th International Symposium on Human Behaviour in Fire*, Helsingborg.
+de Schot, L., Lovreglio, R., & Nilsson, D. (2026). *International Symposium on Human Behaviour in Fires*, Helsingborg, Sweden.
 
 A review of 19 real-vs-virtual gait studies, a set of design considerations for overground walking in VR, and the W1–W12 domain-specific reporting criteria extending Zielasko & Weissker (2023).
 
