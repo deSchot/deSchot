@@ -38,7 +38,7 @@ A browser-based egressibility assessor: a rebuild of the Smedberg et al. (2023) 
 
 - [**EgressEnabler**](https://github.com/deSchot/EgressEnabler) — live, browser-native egressibility assessor ([launch it](https://deschot.github.io/EgressEnabler/)).
 - [**mocap-coverage-lab**](https://github.com/deSchot/mocap-coverage-lab) — motion-capture camera coverage analysis tool for OptiTrack volume planning ([launch it](https://deschot.github.io/mocap-coverage-lab/)).
-- 3D-printed rigid-body markers and other prints on [**Printables**](https://www.printables.com/@DarthTiberius).
+- 3D-printed rigid-body markers and other prints on [**Printables**](https://www.printables.com/@DarthTiberiu_4479128).
 
 ---
 
